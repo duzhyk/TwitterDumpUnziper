@@ -1,0 +1,7 @@
+C:\Users\Anton\Desktop\TwitterDumpUnziper\TwitterDumpUnziper\bin\Debug\TwitterDumpUnziper.exe.config
+C:\Users\Anton\Desktop\TwitterDumpUnziper\TwitterDumpUnziper\bin\Debug\TwitterDumpUnziper.exe
+C:\Users\Anton\Desktop\TwitterDumpUnziper\TwitterDumpUnziper\bin\Debug\TwitterDumpUnziper.pdb
+C:\Users\Anton\Desktop\TwitterDumpUnziper\TwitterDumpUnziper\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Anton\Desktop\TwitterDumpUnziper\TwitterDumpUnziper\obj\Debug\TwitterDumpUnziper.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\TwitterDumpUnziper\TwitterDumpUnziper\obj\Debug\TwitterDumpUnziper.exe
+C:\Users\Anton\Desktop\TwitterDumpUnziper\TwitterDumpUnziper\obj\Debug\TwitterDumpUnziper.pdb
